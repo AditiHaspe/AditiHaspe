@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there,I'm Aditi 👋
+
+I am a student majoring in Computer Engineering. I have an interest in design and developing Web-sites. I have done several courses to make myself well versed with basic concepts and also completed projects. I have recently developed an interest in Machine learning. So I'm currently learning the required skills.
 
 <!--
 **AditiHaspe/AditiHaspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
